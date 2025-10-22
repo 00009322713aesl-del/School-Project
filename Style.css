@@ -1,0 +1,375 @@
+body.HomeH {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: whitesmoke;
+}
+
+body.LoginB {
+    background-color: #f5f5f5;
+    background-image: url(Images/homeP.png);
+    background-size: 50%;
+    font-family: Arial, sans-serif;
+
+}
+
+body.LoginL {
+    background-color: #f5f5f5;
+    background-image: url(Images/homeP.png);
+    background-size: 50%;
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+
+table.Home {
+    font-weight: bold;
+    font-size: 5;
+}
+
+td.options {
+    background-color: #24253a;
+    text-align: center;
+    vertical-align: bottom;
+}
+
+td.d {
+    background-color: #24253a;
+    text-align: center;
+}
+
+td.options:hover {
+    background-color: white;
+}
+
+div.Home:hover {
+    color: rgb(0, 0, 0);
+}
+
+div.bodyH {
+    width: 50%;
+    text-align: center;
+    border-radius: 30px;
+    padding: 0.5%;
+    font-size: 25px;
+    background-color: #FFCE1B;
+}
+
+div.bodyFB {
+    width: 100%;
+    border-color: #000000;
+    text-align: left;
+    border-radius: 30px;
+    font-size: 25px;
+}
+
+div.bodyF {
+    background-image: url(Images/homeP.png);
+    background-size: 50%;
+    width: 80%;
+    text-align: left;
+    margin-top: 1%;
+    margin-bottom: 1%;
+    border-radius: 30px;
+    font-size: 25px;
+}
+
+img.Bar {
+    vertical-align: middle;
+}
+
+img.curve {
+    border-radius: 45px;
+    padding: 2%;
+}
+
+hr.curve {
+    border-radius: 5px;
+}
+
+li.H {
+    font-weight: bold;
+    font-size: 120%;
+}
+
+p.border {
+    border-color: #660033;
+    border-style: solid;
+    padding: 1%;
+    background-color: #ffce1b;
+    border-radius: 25px;
+    font-size: 20px;
+}
+
+div.border {
+    padding: 2%;
+}
+
+P.s {
+    padding: 2%;
+}
+
+H4.s {
+    padding: 2%;
+}
+
+a.s {
+    padding: 2%;
+    color: blue;
+}
+
+div.sub {
+    width: 25%;
+    text-align: center;
+    border-radius: 30px;
+    padding: 0.01%;
+    font-size: 15px;
+    background-color: coral;
+}
+
+h3.p {
+    padding: 1%;
+    text-align: left;
+}
+
+a.f {
+    text-decoration: none;
+    color: #ffffff;
+    font-size: x-large;
+}
+
+table.f {
+    text-align: center;
+    padding-top: 10%;
+    padding-bottom: 10%;
+}
+
+div.form {
+    padding: 2%;
+    background-color: #1a1a1a;
+    width: 20%;
+    border-top-right-radius: 20px;
+    border-bottom-right-radius: 20px;
+    color: white;
+}
+
+.footer {
+    background-color: #1a1a1a;
+    color: white;
+    padding: 30px;
+    font-family: Arial, sans-serif;
+}
+
+
+.footer-section {
+    display: inline-block;
+    width: 30%;
+    vertical-align: top;
+    padding: 10px;
+    box-sizing: border-box;
+}
+
+
+.footer-logo {
+    width: 130px;
+    height: 50px;
+}
+
+.footer-text {
+    color: #cccccc;
+    font-size: 14px;
+    line-height: 1.6;
+}
+
+.footer-heading {
+    color: white;
+    font-size: 18px;
+    margin-bottom: 10px;
+}
+
+
+.footer-list {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+}
+
+.footer-link {
+    color: #cccccc;
+    text-decoration: none;
+    display: block;
+    margin-bottom: 6px;
+}
+
+.footer-link:hover {
+    color: #ffffff;
+    text-decoration: underline;
+}
+
+.footer-bottom {
+    text-align: center;
+    border-top: 1px solid #333333;
+    margin-top: 20px;
+    padding-top: 10px;
+}
+
+.footer-credit {
+    font-size: 13px;
+    color: #888888;
+}
+
+/* ---------- Main Card ---------- */
+.box-container {
+    background-color: white;
+    width: 370px;
+    margin: 0 auto;
+    border-radius: 18px;
+    padding: 35px 25px;
+    box-shadow: 0 0 20px #cccccc;
+}
+
+/* ---------- Logo and Heading ---------- */
+.logo-section {
+    margin-bottom: 20px;
+}
+
+.circle-logo {
+    width: 50px;
+    height: 50px;
+    background-color: black;
+    border-radius: 50%;
+    margin: 0 auto 10px;
+}
+
+.main-title {
+    font-size: 24px;
+    color: #1a1a1a;
+    margin-bottom: 5px;
+}
+
+.sub-title {
+    color: #666;
+    font-size: 14px;
+}
+
+/* ---------- Input Section ---------- */
+.input-area {
+    text-align: left;
+}
+
+.block-field {
+    margin-bottom: 15px;
+}
+
+.lbl {
+    font-size: 14px;
+    color: #333;
+}
+
+.txt-box {
+    width: 92%;
+    padding: 10px;
+    border: 2px solid #e1e1e1;
+    border-radius: 10px;
+    font-size: 14px;
+    margin-top: 5px;
+    margin-left: 3%;
+    margin-right: 3%;
+    box-sizing: border-box;
+}
+
+/* ---------- Checkbox + Link Row ---------- */
+.extra-row {
+    margin-top: 5px;
+    margin-bottom: 20px;
+}
+
+.left-side {
+    float: left;
+}
+
+.right-link {
+    float: right;
+    text-decoration: none;
+    color: black;
+    font-size: 13px;
+}
+
+.small-txt {
+    font-size: 13px;
+    color: #666;
+}
+
+/* ---------- Buttons ---------- */
+.btn-main {
+    width: 94%;
+    background-color: black;
+    color: white;
+    border: none;
+    padding: 12px;
+    border-radius: 10px;
+    font-size: 16px;
+    cursor: pointer;
+    margin-left: 3%;
+    margin-right: 3%;
+}
+
+.btn-main:hover {
+    background-color: #333;
+}
+
+/* ---------- Social Section ---------- */
+.divider-sec {
+    clear: both;
+    margin-top: 30px;
+}
+
+.divider-text {
+    color: #666;
+    font-size: 14px;
+    margin-bottom: 15px;
+}
+
+.icon-holder {
+    text-align: center;
+}
+
+.icon-btn {
+    display: inline-block;
+    width: 45px;
+    height: 45px;
+    border: 2px solid #e1e1e1;
+    border-radius: 10px;
+    line-height: 45px;
+    color: black;
+    font-weight: bold;
+    margin: 0 5px;
+}
+
+.icon-btn:hover {
+    background-color: #f5f5f5;
+}
+
+/* ---------- Terms Section ---------- */
+.terms-row {
+    text-align: left;
+    margin-bottom: 20px;
+    margin-left: 3%;
+}
+
+.link-text {
+    color: black;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.link-text:hover {
+    text-decoration: underline;
+}
+
+/* ---------- Footer Section ---------- */
+.bottom-line {
+    margin-top: 25px;
+}
+
+.foot-text {
+    font-size: 14px;
+    color: #333;
+}
